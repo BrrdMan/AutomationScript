@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Ducati launched]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-06-21T13:42:04 IST" name="Surefire suite" finished-at="2025-06-21T13:42:12 IST" duration-ms="7486">
+    <groups>
+      <group name="smoke">
+        <method signature="DucatiTest.launch()[pri:0, instance:samplemvn.testng_bike.DucatiTest@c8e4bb0]" name="launch" class="samplemvn.testng_bike.DucatiTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2025-06-21T13:42:04 IST" name="Surefire test" finished-at="2025-06-21T13:42:12 IST" duration-ms="7486">
+      <class name="samplemvn.testng_bike.DucatiTest">
+        <test-method signature="launch()[pri:0, instance:samplemvn.testng_bike.DucatiTest@c8e4bb0]" started-at="2025-06-21T13:42:05 IST" name="launch" finished-at="2025-06-21T13:42:12 IST" duration-ms="7362" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Ducati launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- samplemvn.testng_bike.DucatiTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

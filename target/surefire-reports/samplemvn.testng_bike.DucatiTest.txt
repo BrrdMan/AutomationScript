@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: samplemvn.testng_bike.DucatiTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.577 s -- in samplemvn.testng_bike.DucatiTest
